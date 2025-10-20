@@ -32,6 +32,13 @@ Repositorio personal de la asignatura **Desarrollo en Entorno Servidor (DSW)**, 
 
 ---
 
+## 📖 Temas
+
+- **Tema 1:** Tecnologías para el desarrollo Web en entorno servidor. [Ver carpeta](./src/ejercicios/tema_01)
+- **Tema 2:** Frameworks para el desarrollo de aplicaciones Web. [Ver carpeta](./src/ejercicios/tema_02)
+
+---
+
 ## 🧠 Objetivos de la asignatura
 
 - Comprender el funcionamiento del **lado servidor** en el desarrollo web.  
